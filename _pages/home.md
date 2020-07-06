@@ -1,12 +1,12 @@
 ---
-title: "Atmospheric Chemistry Modeling & Remote Sensing | 大气化学模式与遥感"
+title: "Test | Test"
 layout: homelay
-excerpt: "Atmospheric Chemistry Modeling & Remote Sensing Research Group at SUSTech."
+excerpt: "Test Group at HKBU."
 sitemap: false
 permalink: /
 ---
 
-**Welcome to the Atmospheric Chemistry Modeling & Remote Sensing Research Group @ SUSTech**. 
+**Welcome to the Test Research Group @ HKBU**. 
 Our goal is to better understand processes governing the distributions of atmospheric species, and their implications for air quality, public health, and climate.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
