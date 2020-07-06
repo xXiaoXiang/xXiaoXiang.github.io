@@ -19,3 +19,14 @@
   highlight: 1
   news2:
   first_or_cor: 1
+
+- title: "Test"
+  image: 
+  description: This is a test highlight.
+  authors: Xiang Xiao
+  link:
+    url: https://www.atmos-chem-phys-discuss.net/acp-2019-1117/#discussion
+    display: Atmos. Chem. Phys. Discuss., 2020
+  highlight: 1
+  news2:
+  first_or_cor: 1
