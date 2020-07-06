@@ -13,17 +13,17 @@ permalink: /contact/
 ### Contact Us
 
 **Email:** 
-zhul3@sustech.edu.cn
+mmgao2@hkbu.edu.hk
 
 **Tel:** 
-+86-755-26601426
++852-34117190
 
 **Fax:** 
-+86-755-88010822
++852-34115990
 
 **Address:**
-Taizhou Hall 429,
-1088 Xueyuan Ave., Shenzhen, Guangdong, China, 518055
+AAB 1222, Teaching and Administration Building,
+HongKong Baptist University, HongKong SAR, China
 
 For more information, please see [map and direction](https://www.ese.sustc.edu.cn/en/contact/index.aspx?nc=111038006).
 </div>
@@ -33,16 +33,16 @@ For more information, please see [map and direction](https://www.ese.sustc.edu.c
 ### 联系我们
 
 **邮箱：**
-zhul3@sustech.edu.cn
+mmgao2@hkbu.edu.hk
 
 **电话：** 
-0755-26601426
++852-34117190
 
 **传真：**
-0755-88010822
++852-34115990
 
 **地址：** 
-广东省深圳市南山区学苑大道1088号南方科技大学台州楼429（邮编 518055）
+香港特别行政区 香港浸会大学 教学与行政大楼 AAB1222
 
 详细路线请参考[地图与指示](https://www.ese.sustc.edu.cn/contact/index.aspx?nc=101038006)。
 
