@@ -1,7 +1,7 @@
 ---
-title: "Openings | 加入我们"
+title: "Join us | 加入我们"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Join us"
 sitemap: false
 permalink: /openings/
 ---
