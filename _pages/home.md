@@ -1,12 +1,12 @@
 ---
-title: "Test | Test"
+title: "Atmospheric Chemistry Modeling & Remote Sensing Group | 大气化学模拟与遥感研究组"
 layout: homelay
-excerpt: "Test Group at HKBU."
+excerpt: "ACMRS Group at HKBU."
 sitemap: false
 permalink: /
 ---
 
-**Welcome to the Test Research Group @ HKBU**. 
+**Welcome to the ACMRS Research Group @ HKBU**. 
 Our goal is to better understand processes governing the distributions of atmospheric species, and their implications for air quality, public health, and climate.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -43,10 +43,9 @@ Our goal is to better understand processes governing the distributions of atmosp
 To this end, our [research]({{ site.url }}{{ site.baseurl }}/research) combines modeling, remote sensing, and data assimilation techniques.
 We work with researchers all over the world through collaborative model development, satellite missions, field campaigns, and global measurement networks.
 
-We are part of the [School of Environmental Science and Engineering](https://www.ese.sustc.edu.cn/en/) at [SUSTech](https://www.sustech.edu.cn/en), a new research-oriented public university in Shenzhen - the innovation center of China.
+We are part of the [Department of Geography](http://http://geog.hkbu.edu.hk/) at [HKBU](https://www.hkbu.edu.hk), a new research-oriented public university in Shenzhen - the innovation center of China.
 
-**We are now hiring Postdocs. 
-We are also seeking passionate Ph.D., Master, and Undergraduate students to join the group.**
+**We are now seeking Postdocs, passionate Research Postgradate students and Undergraduate students to join our group.**
 Please check out our [Openings]({{ site.url }}{{ site.baseurl }}/openings).
 
 <p style="text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/sustech_logo.png" style="width: 240px">
