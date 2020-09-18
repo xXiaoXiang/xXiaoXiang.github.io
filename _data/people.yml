@@ -10,6 +10,32 @@
   education4:
   education5:
   statement:
+
+- name: Xiao Xiang | 肖翔
+  photo: Xiao_Xiang.jpg
+  group_member: 1
+  info: PhD. Student (2020.09–)
+  email: xiaoxiang@life.hkbu.edu.hk
+  number_educ: 2
+  education1: 2017-2019, Mphil., Sun Yat-sen University, China
+  education2: 2012-2017, Bachelor of Medicine., Sun Yat-sen University, China
+  education3: 
+  education4:
+  education5:
+  statement:
+  
+- name: Zhang XiaoRui | 张笑瑞
+  photo: Zhang_XiaoRui.png
+  group_member: 1
+  info: PhD. Student (2020.09–)
+  email: zhangxiaorui@life.hkbu.edu.hk
+  number_educ: 2
+  education1: 2017-2019, MS., Lanzhou University, China
+  education2: 2012-2017, BS., Lanzhou University, China
+  education3: 
+  education4:
+  education5:
+  statement:
   
 - name: "This could be you !"
   photo: wny.jpg
