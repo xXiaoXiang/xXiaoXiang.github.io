@@ -43,7 +43,7 @@ Our goal is to better understand processes governing the distributions of atmosp
 To this end, our [research]({{ site.url }}{{ site.baseurl }}/research) combines modeling, remote sensing, and data assimilation techniques.
 We work with researchers all over the world through collaborative model development, satellite missions, field campaigns, and global measurement networks.
 
-We are part of the [Department of Geography](http://http://geog.hkbu.edu.hk/) at [HKBU](https://www.hkbu.edu.hk), a new research-oriented public university in Shenzhen - the innovation center of China.
+We are part of the [Department of Geography](http://http://geog.hkbu.edu.hk/) at [HKBU](https://www.hkbu.edu.hk).
 
 **We are now seeking Postdocs, passionate Research Postgradate students and Undergraduate students to join our group.**
 Please check out our [Openings]({{ site.url }}{{ site.baseurl }}/openings).
