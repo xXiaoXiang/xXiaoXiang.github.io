@@ -1,6 +1,6 @@
-# Test Group Website
+# ACMRS Group Website
 
 This is the website of our academic research group at HKBU. The website is made with the template from https://www.nafornow.org, and powered by Jekyll. Please feel free to clone the repository and customize it to make your own research website.
 
-Copyright (2020-present) ACMR Group @ HKBU. Code released under the MIT License.
+Copyright (2020-present) ACMRS Group @ HKBU. Code released under the MIT License.
 
