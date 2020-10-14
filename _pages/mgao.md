@@ -80,9 +80,32 @@ Environmental Health
 <div class="row">
 <div class="col-sm-12 clearfix">
 
+#### <b>Grants | 受资助项目</b>
+
+[1] 排放與氣候因素對近十多年北京冬季PM2.5濃度變化的影響, 環境模擬與污染控制國家重點聯合實驗室（清華大學）開放課題(19K03ESPCT)，2019-2021, 80,000 CNY
+
+[2] 中國與印度重污染區域臭氧的季節性與污染源特徵, 中國氣象局氣溶膠與雲降水重點開放實驗室開放課題 (KDW1901)，2019-2021, 30,000 CNY
+
+[3] APEC期間多污染物減排對黑碳光吸收影響的模擬研究，江蘇省大氣環境監測與污染控制高技術研究重點實驗室開放基金(KHK1902)，2019-2021, 50,000 CNY
+
+[4] 排放與氣候因素對近十多年廣東冬季PM2.5濃度變化的影響， 廣東省自然科學基金-面上項目(2019A1515011633)，2019-2022, 100,000 CNY
+
+[5] Assimilating surface PM2.5 and ozone measurements to improve health exposure assessment and air quality forecasting in South China, Early Career Scheme (ECS) (22201820), 2021-2023, 579,972 HKD
+
+[6] Co-occurrence and Exposure of Heat and Haze Hazards over China under a Warming Climate, Tier 2 Start-up Grant (SGT2) 2019/20, 499,000 HKD
+
+[7] 極軌和靜止衛星污染資料同化對我國大氣復合污染模擬預測的影響研究，NSFC-Young Scientists Fund, 2021-2023, 240,000 CNY
+
+
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-12 clearfix">
+
 #### <b>PUBLICATIONS | 发表论文</b>
 
-See a full list my publications at [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=VcwIxYgAAAAJ) or [ORCID](https://orcid.org/0000-0002-3919-3095)
+See a full list my publications at [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=VcwIxYgAAAAJ) or [Mendeley](https://www.mendeley.com/authors/56479783600/)
 
 <b>First or corresponding author (*) | 第一或通讯作者
 
