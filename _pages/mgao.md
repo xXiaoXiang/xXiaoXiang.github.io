@@ -257,7 +257,27 @@ Yang, S., Ma, J., Hu, Z., Jin, L., Xu, X. and Gao, M.: Influence of Aerosols Mix
 
 #### <b>INVITED SEMINARS | 受邀讲座</b>
 
-To be continued.
+To be continued.Aerosol Pollution in Asia and its Interactions with Climate, presented by Gao Meng at EGU General Assembly, May 4, 2020, Online.
+
+氣溶膠生成與天氣、氣候相互作用數值模擬, presented by Gao Meng at 環境科學與工程學院, May 19, 2020, Nanjing, China.
+
+Seasonal Prediction of Indian Wintertime Aerosol Pollution using the Ocean Memory Effect, presented by Gao Meng at Max Planck Institute for Chemistry Seminar, November 4, 2019, Mainz, Germany.
+
+Air Pollution in Asia and its Interactions with Health and Climate, presented by Gao Meng at Geography and Resource Management Seminar Series, October 17, 2019, Hong Kong, China.
+
+Feeling the Pulse of the Ocean, presented by Gao Meng at Hong Kong Polytechnic University Department of Civil and Environmental Engineering Seminar, May 31, 2019, Hong Kong, China.
+
+Secular Decrease of Wind Power Potential in India Associated with Warming Indian Ocean, presented by Gao Meng at Nanjing University of Information Science and Technology Atmospheric Physics Seminar, December 10, 2018, Nanjing, China.
+
+Improving the Understanding of Haze Pollution in the North China Plain via Atmospheric Modeling and Data Assimilation, presented by Gao Meng at Atmospheric Chemistry Colloquium for Emerging Senior Scientists (ACCESS XIV), July 30, 2017, New York, USA.
+
+Combining Atmospheric Modeling and Observations to Study Aerosol Pollution in North China, presented by Gao Meng at Tsinghua University Earth System Sciences Seminar, April 17, 2017, Beijing, China.
+
+Haze Pollution in Northern China from a Modeling Perspective, presented by Gao Meng at Harvard University China Project Seminar, May 2, 2016, Cambridge, MA, USA.
+
+Improving the Understanding of Haze Pollution in the North China Plain via Atmospheric Modeling and Data Assimilation, presented by Gao Meng at Yonsei University Atmospheric Sciences Seminar, March 22, 2016, Seoul, South Korea.
+
+Modeling Study of the 2010 Regional Haze Event in the North China Plain, presented by Gao Meng at World Meteorological Organization (WMO) Near Real Time (NRT) Data Application Pilot Project Workshop, July 6, 2015, Beijing, China.
 
 </div>
 </div>
