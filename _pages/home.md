@@ -8,7 +8,7 @@ permalink: /
 
 **Welcome to the GGAHC Research Group @ Hong Kong Baptist University.**
 
-Our goal is to better understand processes governing the distributions of atmospheric species, and their implications for air quality, public health, and climate.
+Our research is motivated by better understandings of processes that determine the spatiotemporal variations of air pollutants, and their implications for public health and climate.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -22,13 +22,13 @@ Our goal is to better understand processes governing the distributions of atmosp
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slides/slide_main.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slides/S1.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slides/Ozone1.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slides/S2.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slides/Ozone2.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slides/S3.png" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -41,8 +41,7 @@ Our goal is to better understand processes governing the distributions of atmosp
   </a>
 </div>
 
-To this end, our [research]({{ site.url }}{{ site.baseurl }}/research) combines modeling of air quality and climate change patterns, with assessments of health impact.
-We work with researchers all over the world through collaborative model development, satellite missions, field campaigns, and global measurement networks.
+Our [research]({{ site.url }}{{ site.baseurl }}/research) uses numerical atmospheric chemistry/weather/climate models (WRF-Chem, GEOS-Chem, WRF, CESM, etc.) and advanced statistical methods (machine learning, etc.) to interpret observed air pollution/climate phenomena,  to assess their health impacts, and to prepare for the future. We work with researchers all over the world to advance modeling/prediction and monitoring of air quality, and to improve the assessment of health risks of exposure to air quality and climate extremes. 
 
 We are part of the [Department of Geography](http://geog.hkbu.edu.hk/) at [Hong Kong Baptist University](https://www.hkbu.edu.hk).
 
