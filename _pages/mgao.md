@@ -109,9 +109,9 @@ See a full list my publications at [Google Scholar](https://scholar.google.com/c
 
 <b>First or corresponding author (*) | 第一或通讯作者
 
-Gao, M., Sherman, P., Song, S., Yu, Y., Wu, Z. and McElroy, M. B.: Seasonal Prediction of Indian Wintertime Aerosol Pollution using the Ocean Memory Effect. Science Advances, 5(7), eaav4157, 2019. 
+Gao, M., Sherman, P., Song, S., Yu, Y., Wu, Z. and McElroy, M. B.: Seasonal Prediction of Indian Wintertime Aerosol Pollution using the Ocean Memory Effect. <b>Science Advances<b>, 5(7), eaav4157, 2019. 
 
-Gao, M., Ding, Y., Song, S., Lu, X., Chen, X. and McElroy, M. B.: Secular Changes in Wind Energy Potential in India Associated with Warming Indian Ocean. Science Advances, 4(12), p.eaat5256, 2018. 
+Gao, M., Ding, Y., Song, S., Lu, X., Chen, X. and McElroy, M. B.: Secular Changes in Wind Energy Potential in India Associated with Warming Indian Ocean. <b>Science Advances<b>, 4(12), p.eaat5256, 2018. 
 
 Gao, M., Gao, J., Zhu, B., Kumar, R., Lu, X., Song, S., Zhang, Y., Jia, B., Wang, P., Beig, G., Hu, J., Ying, Q., Zhang, H., Sherman, P., and McElroy, M. B.: Ozone Pollution over China and India: Seasonality and Sources, Atmospheric Chemistry and Physics, 20, 4399–4414, https://doi.org/10.5194/acp-20-4399-2020, 2020.
 
