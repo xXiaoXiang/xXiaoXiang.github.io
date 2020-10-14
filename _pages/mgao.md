@@ -257,25 +257,41 @@ Yang, S., Ma, J., Hu, Z., Jin, L., Xu, X. and Gao, M.: Influence of Aerosols Mix
 
 #### <b>INVITED SEMINARS | 受邀講座</b>
 
-Aerosol Pollution in Asia and its Interactions with Climate, presented by Gao Meng at EGU General Assembly, May 4, 2020, Online.
-
 氣溶膠生成與天氣、氣候相互作用數值模擬, presented by Gao Meng at 南京信息工程大學環境科學與工程學院, May 19, 2020, Nanjing, China.
 
-Seasonal Prediction of Indian Wintertime Aerosol Pollution using the Ocean Memory Effect, presented by Gao Meng at Max Planck Institute for Chemistry Seminar, November 4, 2019, Mainz, Germany.
+Aerosol Pollution in Asia and its Interactions with Climate, presented by Gao Meng at EGU General Assembly, May 4, 2020, Online.
 
-Air Pollution in Asia and its Interactions with Health and Climate, presented by Gao Meng at Geography and Resource Management Seminar Series, October 17, 2019, Hong Kong, China.
+Air Pollution in Asia and its Interactions with Health and Climate, presented by Gao Meng at Chinese University of Hong Kong, Geography and Resource Management Seminar Series, October 17, 2020, Hong Kong, China.
 
 Feeling the Pulse of the Ocean, presented by Gao Meng at Hong Kong Polytechnic University Department of Civil and Environmental Engineering Seminar, May 31, 2019, Hong Kong, China.
 
+Seasonal Prediction of Indian Wintertime Aerosol Pollution using the Ocean Memory Effect, presented by Gao Meng at Max Planck Institute for Chemistry Seminar, November 4, 2019, Mainz, Germany.
+
 Secular Decrease of Wind Power Potential in India Associated with Warming Indian Ocean, presented by Gao Meng at Nanjing University of Information Science and Technology Atmospheric Physics Seminar, December 10, 2018, Nanjing, China.
+
+Secular Decrease of Wind Power Potential in India Associated with Warming Indian Ocean, presented by Gao Meng at Hong Kong Baptist University Department of Geography Public Seminar Series, September 26, 2018, Hong Kong, China.
+
+Secular Decrease of Wind Power Potential in India Associated with Warming Indian Ocean, presented by Gao Meng at City University of Hong Kong School of Energy and Environment Seminar, September 27, 2018, Hong Kong, China.
 
 Improving the Understanding of Haze Pollution in the North China Plain via Atmospheric Modeling and Data Assimilation, presented by Gao Meng at Atmospheric Chemistry Colloquium for Emerging Senior Scientists (ACCESS XIV), July 30, 2017, New York, USA.
 
 Combining Atmospheric Modeling and Observations to Study Aerosol Pollution in North China, presented by Gao Meng at Tsinghua University Earth System Sciences Seminar, April 17, 2017, Beijing, China.
 
+Combining Atmospheric Modeling and Observations to Study Aerosol Pollution in North China, presented by Gao Meng at State Key Laboratory of Atmospheric Boundary Layer Physics and Atmospheric Chemistry (LAPC), Chinese Academy of Sciences Seminar, April 12, 2017, Beijing, China.
+
+Combining Atmospheric Modeling and Observations to Study Aerosol Pollution in North China, presented by Gao Meng at Nanjing University School of Environment Seminar, March 28, 2017, Nanjing, China.
+
+Combining Atmospheric Modeling and Observations to Study Aerosol Pollution in North China, presented by Gao Meng at Sun Yat-Sen University Atmospheric Sciences Seminar, March 23, 2017, Guangzhou, China.
+
+Haze Pollution in Northern China from a Modeling Perspective, presented by Gao Meng at State Key Laboratory of Organic Geochemistry (SKLOG), Chinese Academy of Sciences Seminar, March 22, 2016, Guangzhou, China.
+
 Haze Pollution in Northern China from a Modeling Perspective, presented by Gao Meng at Harvard University China Project Seminar, May 2, 2016, Cambridge, MA, USA.
 
 Improving the Understanding of Haze Pollution in the North China Plain via Atmospheric Modeling and Data Assimilation, presented by Gao Meng at Yonsei University Atmospheric Sciences Seminar, March 22, 2016, Seoul, South Korea.
+
+Haze Pollution in Northern China from a Modeling Perspective, presented by Gao Meng at Nanjing University of Information Science and Technology Atmospheric Physics Seminar, March 18, 2016, Nanjing, China.
+
+Chemical and Meteorological Feedbacks in the Formation of Intense Haze Events, presented by Gao Meng at International Space Science Institute Workshop on Persistent Regional Air Pollution in Asia, March 1, 2016, Beijing, China.
 
 Modeling Study of the 2010 Regional Haze Event in the North China Plain, presented by Gao Meng at World Meteorological Organization (WMO) Near Real Time (NRT) Data Application Pilot Project Workshop, July 6, 2015, Beijing, China.
 
