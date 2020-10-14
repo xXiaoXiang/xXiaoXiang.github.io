@@ -7,14 +7,8 @@ permalink: /research/
 ---
 
 <div class="row">
-<div class="col-sm-6 clearfix">
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
-    <!-- Menu -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-    </ol>
 
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
@@ -33,9 +27,9 @@ permalink: /research/
     <span class="sr-only">Next</span>
   </a>
 </div>
-</div>
 
-<div class="col-sm-6 clearfix">
+
+<div class="col-sm-7 clearfix">
 <h3>Climate variability and air quality</h3>  
 
 As China makes every effort to control air pollution, India emerges as the world’s most polluted country, receiving worldwide attention with frequent winter (boreal) haze extremes. We found that the interannual variability of wintertime aerosol pollution over northern India is regulated mainly by a combination of El Niño and the Antarctic Oscillation (AAO). Both El Niño sea surface temperature (SST) anomalies and AAO-induced Indian Ocean Meridional Dipole SST anomalies can persist from autumn to winter, offering prospects for a prewinter forecast of wintertime aerosol pollution over northern India. 
