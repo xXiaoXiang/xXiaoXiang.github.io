@@ -74,3 +74,113 @@
   highlight: 0
   news2:
   first_or_cor: 1
+
+- title: "Attribution of Aerosol Direct Radiative Forcing in China and India to Emitting Sectors"
+  image: 
+  description: ""
+  authors: Gao, M., Ji, D., Liang, F. and Liu, Y.
+  link:
+    url: https://doi.org/10.1016/j.atmosenv.2018.07.011
+    display: Atmospheric Environment, 2018
+  highlight: 0
+  news2:
+  first_or_cor: 1
+
+- title: "Air Quality and Climate Change, Topic 3 of the Model Inter-Comparison Study for Asia Phase III (MICS-Asia III) Part 1: Overview and Model Evaluation"
+  image: 
+  description: ""
+  authors: Gao, M., Han, Z., Liu, Z., Li, M., Xin, J., Tao, Z., Li, J., Kang, J.E., Huang, K., Dong, X. and Zhuang, B., Li, S., Ge, B., Wu, Q., Cheng, Y., Wang, Y., Lee, H.-J., Kim, C.-H., Fu, J. S., Wang, T., Chin, M., Woo, J.-H., Zhang, Q., Wang, Z. and Carmichael, G. R.
+  link:
+    url: https://doi.org/10.5194/acp-18-4859-2018
+    display: Atmospheric Chemistry and Physics, 2018
+  highlight: 0
+  news2:
+  first_or_cor: 1
+
+- title: "Fine Particle pH for Beijing Winter Haze as Inferred from Different Thermodynamic Equilibrium Models"
+  image: 
+  description: ""
+  authors: Song, S., Gao, M., Xu, W., Shao, J., Shi, G., Wang, S., Wang, Y., Sun, Y. and McElroy, M. B.
+  link:
+    url: https://doi.org/10.1016/j.atmosenv.2018.07.011
+    display: Atmospheric Chemistry and Physics, 2018
+  highlight: 0
+  news2:
+  first_or_cor: 1
+
+- title: "Distinguishing the Roles of Meteorology, Emission Control Measures, Regional Transport, and Co-benefits of Reduced Aerosol Feedbacks in APEC Blue"
+  image: 
+  description: ""
+  authors: Gao, M., Liu, Z., Wang, Y., Lu, X., Ji, D., Wang, L., Li, M., Wang, Z., Zhang, Q. and Carmichael, G. R.
+  link:
+    url: https://doi.org/10.1016/j.atmosenv.2017.08.054
+    display: Atmospheric Environment, 2017
+  highlight: 0
+  news2:
+  first_or_cor: 1
+
+- title: "Estimates of Health Impacts and Radiative Forcing in Winter Haze in Eastern China through Constraints of Surface PM2.5 Predictions"
+  image: 
+  description: ""
+  authors: Gao, M., Saide, P. E., Xin, J., Wang, Y., Liu, Z., Wang, Y., Wang, Z., Pagowski, M., Guttikunda, S. K. and Carmichael, G. R.
+  link:
+    url: https://doi.org/10.1021/acs.est.6b03745
+    display: Environmental Science and Technology, 2017
+  highlight: 0
+  news2:
+  first_or_cor: 1
+
+- title: "Improving Simulations of Sulfate Aerosols during Winter Haze over Northern China: The Impacts of Heterogeneous Oxidation by NO2"
+  image: 
+  description: ""
+  authors: Gao, M., Carmichael, G. R., Wang, Y., Ji, D., Liu, Z. and Wang, Z.
+  link:
+    url: https://link.springer.com/article/10.1007/s11783-016-0878-2
+    display: Frontiers of Environmental Science and Engineering, 2016
+  highlight: 0
+  news2:
+  first_or_cor: 1
+  
+- title: "Response of Winter Fine Particulate Matter Concentrations to Emission and Meteorology Changes in North China"
+  image: 
+  description: ""
+  authors: Gao, M., Carmichael, G. R., Saide, P. E., Lu, Z., Yu, M., Streets, D. G. and Wang, Z.
+  link:
+    url: https://doi.org/10.5194/acp-16-11837-2016
+    display: Atmospheric Chemistry and Physics, 2016
+  highlight: 0
+  news2:
+  first_or_cor: 1
+    
+- title: "Modeling Study of the 2010 Regional Haze Event in the North China Plain"
+  image: 
+  description: ""
+  authors: Gao, M., Carmichael, G. R., Wang, Y., Saide, P. E., Yu, M., Xin, J., Liu, Z. and Wang, Z.
+  link:
+    url: https://doi.org/10.5194/acpd-15-22781-2015
+    display: Atmospheric Chemistry and Physics, 2016
+  highlight: 0
+  news2:
+  first_or_cor: 1
+  
+- title: "Health Impacts and Economic Losses Assessment of the 2013 Severe Haze Event in Beijing Area"
+  image: 
+  description: ""
+  authors: Gao, M., Guttikunda, S. K., Carmichael, G. R., Wang, Y., Liu, Z., Stanier, C. O., Saide, P. E. and Yu, M.
+  link:
+    url: https://doi.org/10.1016/j.scitotenv.2015.01.005
+    display: Science of the Total Environment, 2015
+  highlight: 0
+  news2:
+  first_or_cor: 1
+
+- title: "Chemical and Meteorological Feedbacks in the Formation of Intense Haze Events"
+  image: 
+  description: "Book Chapter"
+  authors: Gao, M., Carmichael, G., Wang, Y., Saide, P., Liu, Z., Xin, J., Shan, Y. and Wang., Z.
+  link:
+    url: 
+    display: Air Pollution in Eastern Asia, An Integrated Perspective, 2017
+  highlight: 0
+  news2:
+  first_or_cor: 1
