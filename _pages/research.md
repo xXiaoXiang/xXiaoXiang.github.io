@@ -7,7 +7,7 @@ permalink: /research/
 ---
 
 <div class="row">
-
+<div class="col-sm-6 clearfix">
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
@@ -27,7 +27,7 @@ permalink: /research/
     <span class="sr-only">Next</span>
   </a>
 </div>
-
+</div>
 
 <div class="col-sm-7 clearfix">
 <h3>Climate variability and air quality</h3>  
