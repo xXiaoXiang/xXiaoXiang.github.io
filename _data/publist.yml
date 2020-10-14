@@ -21,13 +21,13 @@
   first_or_cor: 0
 
 - title: "China's emission control measures have suppressed unfavorable influences of climate on wintertime PM2.5 concentrations in Beijing since 2002"
-  image: 
+  image: China_emission.png
   description: ""
   authors: Gao, M., Liu, Z., Zheng, B., Ji, D., Sherman, P., Song, S., Xin, J., Liu, C., Wang, Y., Zhang, Q., Wang, Z., Carmichael, G., and McElroy, M.
   link:
     url: https://doi.org/10.5194/acp-20-1497-2020
     display: Atmospheric Chemistry and Physics, 2020
-  highlight: 0
+  highlight: 1
   news2:
   first_or_cor: 1
 
