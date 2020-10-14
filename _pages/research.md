@@ -20,9 +20,12 @@ Atmospheric chemistry modeling plays a crucial role in identifying key processes
 We are interested in 
 
 (1) using atmospheric chemistry models to interpret observations from aircraft, ground networks, satellites, and other platforms,
+
 (2) applying modeling technique to atmospheric chemistry problems of pressing environmental concern, and
+
 (3) developing chemical data assimilation tools to manage the massive flow of satellite data.
   
+
 </div>
 </div>
 
