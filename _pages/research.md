@@ -32,7 +32,7 @@ permalink: /research/
 <div class="col-sm-7 clearfix">
 <h3>Climate variability and air quality</h3>  
 
-As China makes every effort to control air pollution, India emerges as the world’s most polluted country, receiving worldwide attention with frequent winter (boreal) haze extremes. We found that the interannual variability of wintertime aerosol pollution over northern India is regulated mainly by a combination of El Niño and the Antarctic Oscillation (AAO). Both El Niño sea surface temperature (SST) anomalies and AAO-induced Indian Ocean Meridional Dipole SST anomalies can persist from autumn to winter, offering prospects for a prewinter forecast of wintertime aerosol pollution over northern India. 
+As China makes every effort to control air pollution, India emerges as the world’s most polluted country, receiving worldwide attention with frequent winter (boreal) haze extremes. The interannual variability of wintertime aerosol pollution over northern India is regulated mainly by a combination of El Niño and the Antarctic Oscillation (AAO). Both El Niño sea surface temperature (SST) anomalies and AAO-induced Indian Ocean Meridional Dipole SST anomalies can persist from autumn to winter, offering prospects for a prewinter forecast of wintertime aerosol pollution over northern India. 
 [Paper Link](https://advances.sciencemag.org/content/5/7/eaav4157) 
 
 [Media coverage:](https://economictimes.indiatimes.com/news/science/new-computer-model-can-predict-indias-pollution-levels-months-earlier/articleshow/70446469.cms) <i>New computer model can predict India's pollution levels months earlier</i>
