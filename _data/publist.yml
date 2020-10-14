@@ -1,11 +1,11 @@
 ﻿- title: "Ozone Pollution over China and India: Seasonality and Sources"
   image: Ozone.png
-  description: "A regional fully coupled meteorology–chemistry model, Weather Research and Forecasting model with Chemistry (WRF-Chem), was employed to study the seasonality of ozone (O3) pollution and its sources in both China and India."
+  description: ""
   authors: Gao, M., Gao, J., Zhu, B., Kumar, R., Lu, X., Song, S., Zhang, Y., Jia, B., Wang, P., Beig, G., Hu, J., Ying, Q., Zhang, H., Sherman, P., and McElroy, M. B.
   link:
     url: https://doi.org/10.5194/acp-20-4399-2020
     display: Atmospheric Chemistry and Physics, 2020
-  highlight: 1
+  highlight: 0
   news2:
   first_or_cor: 1
 
@@ -27,7 +27,7 @@
   link:
     url: https://doi.org/10.5194/acp-20-1497-2020
     display: Atmospheric Chemistry and Physics, 2020
-  highlight: 1
+  highlight: 0
   news2:
   first_or_cor: 1
 
@@ -43,24 +43,24 @@
   first_or_cor: 1
 
 - title: "Seasonal Prediction of Indian Wintertime Aerosol Pollution using the Ocean Memory Effect"
-  image: 
-  description: ""
+  image: Seasonal.jpg
+  description: "Interannual variability of wintertime aerosol pollution over northern India is regulated mainly by a combination of El Niño and the Antarctic Oscillation (AAO). Both El Niño sea surface temperature (SST) anomalies and AAO-induced Indian Ocean Meridional Dipole SST anomalies can persist from autumn to winter, offering prospects for a prewinter forecast of wintertime aerosol pollution over northern India."
   authors: Gao, M., Sherman, P., Song, S., Yu, Y., Wu, Z. and McElroy, M. B.
   link:
     url: https://doi.org/10.1126/sciadv.aav4157
     display: Science Advances, 2019
-  highlight: 0
+  highlight: 1
   news2:
   first_or_cor: 1
 
 - title: "Secular decrease of wind power potential in India associated with warming in the Indian Ocean"
-  image: 
-  description: ""
+  image: Secular.jpg
+  description: "On the basis of hourly wind data from an assimilated meteorology reanalysis dataset covering the 1980–2016 period, we show that wind power potential may have declined secularly over this interval, particularly in western India. Surface temperature data confirm that significant warming occurred in the Indian Ocean over the study period, leading to modulation of high pressure over the ocean. The warming in the Indian Ocean contributes to subsidence and dampening of upward motion over the Indian continent, resulting potentially in weakening of the monsoonal circulation and wind speeds over India."
   authors: Gao, M., Ding, Y., Song, S., Lu, X., Chen, X. and McElroy, M. B.
   link:
     url: https://doi.org/10.1126/sciadv.aat5256
     display: Science Advances, 2018
-  highlight: 0
+  highlight: 1
   news2:
   first_or_cor: 1
 
