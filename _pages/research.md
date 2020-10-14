@@ -7,7 +7,7 @@ permalink: /research/
 ---
 
 <div class="row">
-<div class="col-sm-6 clearfix">
+<div class="col-sm-8 clearfix">
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
