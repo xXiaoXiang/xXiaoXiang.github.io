@@ -22,8 +22,8 @@ mmgao2@hkbu.edu.hk
 +852-34115990
 
 **Address:**
-AAB 1222, Teaching and Administration Building,
-HongKong Baptist University, HongKong SAR, China
+AAB 1222, Academic and Administration Building,
+HongKong Baptist University, Kowloon, HongKong SAR, China
 
 
 </div>

@@ -31,7 +31,7 @@ For more details, please check [the post]({{ site.url }}{{ site.baseurl }}/downl
 
 #### <b>PhD and Master students</b>
 
-We recruit 1-3 PhD students and 1-2 Master students each year. 
+We recruit PhD students and Master students each year. 
 If you are interested in working with us, please send us an [email]({{ site.url }}{{ site.baseurl }}/contact/).  
 In the email, please  
 (1) state briefly why you are interested in us,  
@@ -45,7 +45,7 @@ In the email, please
 
 #### <b>博士与硕士研究生</b>
 
-研究组每年招收1至3名博士研究生和1至2名硕士研究生。如果您有志加入我们，请[邮件联系]({{ site.url }}{{ site.baseurl }}/contact/)。  
+研究组每年招收博士研究生和硕士研究生。如果您有志加入我们，请[邮件联系]({{ site.url }}{{ site.baseurl }}/contact/)。  
 在邮件里，请您  
 （1）简要说明您为何对我们感兴趣；  
 （2）附上个人简历；  
@@ -60,14 +60,14 @@ In the email, please
 
 #### <b>Undergraduate students</b>
 
-We welcome undergraduates at SUSTech to participate in our research.
+We welcome undergraduates to participate in our research.
 If you are interested, please [contact us]({{ site.url }}{{ site.baseurl }}/contact/).
 
 </div>
 
 <div class="col-sm-6 clearfix">
 #### <b>本科生</b>
-欢迎南科大本科生参与我们的研究。  
+欢迎本科生参与我们的研究。  
 若有兴趣请[联系我们]({{ site.url }}{{ site.baseurl }}/contact/)。
 
 </div>
