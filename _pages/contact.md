@@ -32,13 +32,13 @@ HongKong Baptist University, Kowloon, HongKong SAR, China
 
 ### 聯係我們
 
-**邮箱：**
+**郵箱：**
 mmgao2@hkbu.edu.hk
 
-**电话：** 
+**電話：** 
 +852-34117190
 
-**传真：**
+**傳真：**
 +852-34115990
 
 **地址：** 
