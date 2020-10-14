@@ -48,4 +48,4 @@ We are part of the [Department of Geography](http://http://geog.hkbu.edu.hk/) at
 **We are now seeking Postdocs, passionate Research Postgradate students to join our group.**
 Please check out our [Openings]({{ site.url }}{{ site.baseurl }}/openings).
 
-<p style="text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" style="width: 240px">
+<p style="text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logo.jpg" style="width: 240px">
