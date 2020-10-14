@@ -1,12 +1,13 @@
 ---
 title: "Gao Group for Air quality, Health and Climate (GGAHC) | 空气质量、气候与健康 高蒙课题组"
 layout: homelay
-excerpt: "GGAHC Group at HKBU."
+excerpt: "GGAHC Group at HKBU"
 sitemap: false
 permalink: /
 ---
 
-**Welcome to the GGAHC Research Group @ Hong Kong Baptist University**. 
+**Welcome to the GGAHC Research Group @ Hong Kong Baptist University.**
+
 Our goal is to better understand processes governing the distributions of atmospheric species, and their implications for air quality, public health, and climate.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -40,7 +41,7 @@ Our goal is to better understand processes governing the distributions of atmosp
   </a>
 </div>
 
-To this end, our [research]({{ site.url }}{{ site.baseurl }}/research) combines modeling, remote sensing, and data assimilation techniques.
+To this end, our [research]({{ site.url }}{{ site.baseurl }}/research) combines modeling of air quality and climate change patterns, with assessments of health impact.
 We work with researchers all over the world through collaborative model development, satellite missions, field campaigns, and global measurement networks.
 
 We are part of the [Department of Geography](http://geog.hkbu.edu.hk/) at [Hong Kong Baptist University](https://www.hkbu.edu.hk).
