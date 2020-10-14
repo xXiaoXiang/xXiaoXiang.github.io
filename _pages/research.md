@@ -15,12 +15,10 @@ permalink: /research/
 <div class="col-sm-7 clearfix">
 <h3>Atmospheric chemistry modeling for air quality and climate change</h3>  
 
-Atmospheric chemistry modeling is a vibrant field, integrating cutting-edge knowledge from laboratory, theory, and field studies.
-Modeling plays a crucial role in identifying key processes governing the distributions of atmospheric species at various spatial and temporal scales.
-
-Atmospheric chemistry modeling is also central to assessing impacts of atmospheric chemistry on air quality, public health, and climate.
+Atmospheric chemistry modeling plays a crucial role in identifying key processes governing the distributions of atmospheric species at various spatial and temporal scales.Atmospheric chemistry modeling is also central to assessing impacts of atmospheric chemistry on air quality, public health, and climate.
 
 We are interested in 
+
 (1) using atmospheric chemistry models to interpret observations from aircraft, ground networks, satellites, and other platforms,
 (2) applying modeling technique to atmospheric chemistry problems of pressing environmental concern, and
 (3) developing chemical data assimilation tools to manage the massive flow of satellite data.
@@ -37,15 +35,9 @@ We are interested in
 </div>
 
 <div class="col-sm-7 clearfix">
-<h3>Observing trace gases from space</h3>  
-Satellites continuously measure trace gases (<i>e.g.</i>, ozone, SO<sub>2</sub>, NO<sub>2</sub>, 
-HCHO, CHOCHO, BrO, CO<sub>2</sub>, NH<sub>3</sub>, and CH<sub>4</sub>) on a global scale. Observations from space have been used extensively to monitor air quality, 
-to quantify health effects, to constrain emission inventories, and to understand atmospheric chemistry processes.
+<h3>Assessing Health impacts of air pollution and climate change</h3>  
+Both Air pollutants (<i>e.g.</i>, ozone, SO<sub>2</sub>, NO<sub>2</sub>, PM<sub>2.5</sub>, PM<sub>1/sub> and PM<sub>0.1</sub>) and climate change (<i>e.g.</i>, extreme weather, floods, drougts and heatwaves) may have profound influence on people's health. Coupling with epidemiological methods, we aim to investigate and quantify various health effects of air pollution and climate change.
 
-We are working on (1) exploiting satellite trace gas retrievals for air quality applications,
-(2) validating and intercomparing satellite retrievals,
-(3) developing and updating satellite trace gas retrieval algorithms, and
-(4) providing operational satellite trace gas products.  
   
 </div>
 </div>
