@@ -1,32 +1,43 @@
-﻿- title: "An Inversion of NOx and NMVOC Emissions using Satellite Observations during the KORUS-AQ Campaign and Implications for Surface Ozone over East Asia"
+﻿- title: "Ozone Pollution over China and India: Seasonality and Sources"
   image: dummy.png
   description: ""
-  authors: Souri, A. H., Nowlan, C. R., González Abad, G., Zhu, L., Blake, D. R., Fried, A., Weinheimer, A. J., Woo, J.-H., Zhang, Q., Chan Miller, C. E., Liu, X., and Chance, K.
+  authors: Gao, M., Gao, J., Zhu, B., Kumar, R., Lu, X., Song, S., Zhang, Y., Jia, B., Wang, P., Beig, G., Hu, J., Ying, Q., Zhang, H., Sherman, P., and McElroy, M. B.
   link:
-    url: https://www.atmos-chem-phys-discuss.net/acp-2020-220/
-    display: Atmos. Chem. Phys. Discuss., 2020
+    url: https://doi.org/10.5194/acp-20-4399-2020
+    display: Atmospheric Chemistry and Physics, 2020
   highlight: 1
   news2:
   first_or_cor: 0
 
-- title: "Validation of satellite formaldehyde (HCHO) retrievals using observations from 12 aircraft campaigns"
+- title: "Evaluation of NU-WRF Performance on Air Quality Simulation under Various Model Resolutions – An Investigation within Framework of MICS-Asia Phase III"
   image: Pub_flight_tracks.png
-  description: We develop a global validation platform for satellite HCHO retrievals using observations from 12 aircraft campaigns with a chemical transport model (GEOS-Chem) as the intercomparison method.
-  authors: Lei Zhu, Gonzalo González Abad, Caroline R. Nowlan, Christopher Chan Miller, Kelly Chance, Eric C. Apel, Joshua P. DiGangi, Alan Fried, Thomas F. Hanisco, Lu Hu, Jennifer Kaiser, Frank N. Keutsch, Wade Permar, Jason M. St. Clair, and Glenn M. Wolfe
+  description: "description1"
+  authors: Tao, Z., Chin, M., Gao, M., Kucsera, T., Kim, D., Bian, H., Kurokawa, J., Wang, Y., Carmichael, G. R., Wang, Z., and Akimoto, H.
   link:
-    url: https://www.atmos-chem-phys-discuss.net/acp-2019-1117/#discussion
-    display: Atmos. Chem. Phys. Discuss., 2020
+    url: https://doi.org/10.5194/acp-20-2319-2020
+    display: Atmospheric Chemistry and Physics, 2020
   highlight: 1
   news2:
   first_or_cor: 1
 
-- title: "Test"
+- title: "China's emission control measures have suppressed unfavorable influences of climate on wintertime PM2.5 concentrations in Beijing since 2002"
   image: 
-  description: This is a test highlight.
-  authors: Xiang Xiao
+  description: "description2"
+  authors: Gao, M., Liu, Z., Zheng, B., Ji, D., Sherman, P., Song, S., Xin, J., Liu, C., Wang, Y., Zhang, Q., Wang, Z., Carmichael, G., and McElroy, M.
   link:
-    url: https://www.atmos-chem-phys-discuss.net/acp-2019-1117/#discussion
-    display: Atmos. Chem. Phys. Discuss., 2020
+    url: https://doi.org/10.5194/acp-20-1497-2020
+    display: Atmospheric Chemistry and Physics, 2020
+  highlight: 1
+  news2:
+  first_or_cor: 1
+
+- title: "Air Quality and Climate Change, Topic 3 of the Model Inter-Comparison Study for Asia Phase III (MICS-Asia III), Part II: aerosol radiative effects and aerosol feedbacks"
+  image: 
+  description: "description3"
+  authors: Gao, M., Han, Z., Tao, Z., Li, J., Kang, J.-E., Huang, K., Dong, X., Zhuang, B., Li, S., Ge, B., Wu, Q., Lee, H.-J., Kim, C.-H., Fu, J. S., Wang, T., Chin, M., Li, M., Woo, J.-H., Zhang, Q., Cheng, Y., Wang, Z., and Carmichael, G. R.
+  link:
+    url: https://doi.org/10.5194/acp-20-1147-2020
+    display: Atmospheric Chemistry and Physics, 2020
   highlight: 1
   news2:
   first_or_cor: 1
