@@ -14,7 +14,7 @@ permalink: /openings/
 
 We are recruiting PhD students for academic year 2021 starting in September 2021. 
 
-Applicants who majored in Atmospheric Science, Environmental Science, Computer Science from both home and abroad are welcomed!
+Applicants who majored in Atmospheric Science, Environmental Science, Computer Science from both home and abroad are welcomed! Applicants should pass the English test (i.e., TOEFL-iBT ≥ 79, or IELTS overall band ≥ 6.5).
 If you are interested in working with us, please send us an [email]({{ site.url }}{{ site.baseurl }}/contact/).  
 
 In the email, please  
@@ -31,7 +31,7 @@ In the email, please
 
 欢迎国内外大气科學、环境科學、計算機科學等專業方向的毕业生或待毕业生申请。有意者请[邮件联系]({{ site.url }}{{ site.baseurl }}/contact/)。  
 
-要求：专业方向为空氣質量與天氣、氣候相互作用數值模擬，空氣污染數據統計分析與預測等，有大气环境數值模擬科研经历、科研成果突出或學習成績優異的学生优先考虑。
+要求：专业方向为空氣質量與天氣、氣候相互作用數值模擬，空氣污染數據統計分析與預測等，有大气环境數值模擬科研经历、科研成果突出或學習成績優異的学生优先考虑。申請者需要通過英語專業考試：TOEFL-iBT 79以上或者雅思6.5以上
 
 
 在邮件里，请您  
