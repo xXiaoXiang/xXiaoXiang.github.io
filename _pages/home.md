@@ -1,12 +1,12 @@
 ---
-title: "Atmospheric Chemistry Modeling & Remote Sensing Group | 大气化学模拟与遥感研究组"
+title: "Gao Group for Air quality, Health and Climate (GGAHC) | 空气质量、气候与健康 高蒙课题组"
 layout: homelay
-excerpt: "ACMRS Group at HKBU."
+excerpt: "GGAHC Group at HKBU."
 sitemap: false
 permalink: /
 ---
 
-**Welcome to the ACMRS Research Group @ Hong Kong Baptist University**. 
+**Welcome to the GGAHC Research Group @ Hong Kong Baptist University**. 
 Our goal is to better understand processes governing the distributions of atmospheric species, and their implications for air quality, public health, and climate.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
