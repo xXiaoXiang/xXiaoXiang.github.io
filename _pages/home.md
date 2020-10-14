@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**Welcome to the ACMRS Research Group @ HKBU**. 
+**Welcome to the ACMRS Research Group @ Hong Kong Baptist University**. 
 Our goal is to better understand processes governing the distributions of atmospheric species, and their implications for air quality, public health, and climate.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -43,9 +43,9 @@ Our goal is to better understand processes governing the distributions of atmosp
 To this end, our [research]({{ site.url }}{{ site.baseurl }}/research) combines modeling, remote sensing, and data assimilation techniques.
 We work with researchers all over the world through collaborative model development, satellite missions, field campaigns, and global measurement networks.
 
-We are part of the [Department of Geography](http://http://geog.hkbu.edu.hk/) at [HKBU](https://www.hkbu.edu.hk).
+We are part of the [Department of Geography](http://http://geog.hkbu.edu.hk/) at [Hong Kong Baptist University](https://www.hkbu.edu.hk).
 
-**We are now seeking Postdocs, passionate Research Postgradate students and Undergraduate students to join our group.**
+**We are now seeking Postdocs, passionate Research Postgradate students to join our group.**
 Please check out our [Openings]({{ site.url }}{{ site.baseurl }}/openings).
 
-<p style="text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/sustech_logo.png" style="width: 240px">
+<p style="text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" style="width: 240px">
