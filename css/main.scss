@@ -3,6 +3,13 @@
     
 @import "bootstrap";
 
+.element.style {
+  width: 400px;
+  float: left;
+  border: 10px;
+  margin-top: 1px;
+}
+
 img { margin-bottom: 20px; 
     margin-top: 20px; 
     border-radius:3%;
@@ -146,9 +153,3 @@ newsid img {
     margin-right: 35px;
 }
 
-element.style {
-  width: 400px;
-  float: left;
-  border: 10px;
-  margin-top: 1px;
-}
