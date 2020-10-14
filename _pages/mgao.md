@@ -17,8 +17,10 @@ permalink: /mgao/
 
 #### <b>RESEARCH AREAS</b>  
 
-Atmospheric Chemistry  
+Atmospheric Chemistry
+
 Air Quality and Climate change
+
 Environmental Health
 
 #### <b>PROFESSIONAL EXPERIENCE</b>
