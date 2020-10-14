@@ -39,7 +39,9 @@ We are interested in
 
 <div class="col-sm-7 clearfix">
 <h3>Assessing Health impacts of air pollution and climate change</h3>  
-Both Air pollutants (<i>e.g.</i>, ozone, SO<sub>2</sub>, NO<sub>2</sub>, PM<sub>2.5</sub>, PM<sub>1</sub> and PM<sub>0.1</sub>) and climate change (<i>e.g.</i>, extreme weather, floods, drougts and heatwaves) may have profound influence on people's health. Coupling with epidemiological methods, we aim to investigate and quantify various health effects of air pollution and climate change.
+Both Air pollutants (<i>e.g.</i>, ozone, SO<sub>2</sub>, NO<sub>2</sub>, PM<sub>2.5</sub>, PM<sub>1</sub> and PM<sub>0.1</sub>) and climate change (<i>e.g.</i>, extreme weather, floods, drougts and heatwaves) may have profound influence on people's health. 
+
+Coupling with epidemiological methods, we aim to investigate and quantify various health effects of air pollution and climate change.
 
   
 </div>
