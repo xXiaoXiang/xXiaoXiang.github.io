@@ -1,5 +1,5 @@
 ---
-title: "Gao Group for Air quality, Health and Climate (GGAHC) | 空气质量、气候与健康 高蒙课题组"
+title: "Gao Group for Air quality, Health and Climate (GGAHC) | 空气质量、气候与健康课题组"
 layout: homelay
 excerpt: "GGAHC Group at HKBU"
 sitemap: false
