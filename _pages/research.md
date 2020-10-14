@@ -15,15 +15,6 @@ permalink: /research/
 <div class="col-sm-7 clearfix">
 <h3>Atmospheric chemistry modeling for air quality and climate change</h3>  
 
-Atmospheric chemistry modeling plays a crucial role in identifying key processes governing the distributions of atmospheric species at various spatial and temporal scales.Atmospheric chemistry modeling is also central to assessing impacts of atmospheric chemistry on air quality, public health, and climate.
-
-We are interested in 
-
-(1) using atmospheric chemistry models to interpret observations from aircraft, ground networks, satellites, and other platforms,
-
-(2) applying modeling technique to atmospheric chemistry problems of pressing environmental concern, and
-
-(3) developing chemical data assimilation tools to manage the massive flow of satellite data.
   
 
 </div>
