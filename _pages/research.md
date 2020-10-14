@@ -20,14 +20,14 @@ As China makes every effort to control air pollution, India emerges as the world
 Both El Niño sea surface temperature (SST) anomalies and AAO-induced Indian Ocean Meridional Dipole SST anomalies can persist from autumn to winter, offering prospects for a prewinter forecast of wintertime aerosol pollution over northern India. 
 [Paper Link](https://advances.sciencemag.org/content/5/7/eaav4157) 
 
-[Media coverage:](https://economictimes.indiatimes.com/news/science/new-computer-model-can-predict-indias-pollution-levels-months-earlier/articleshow/70446469.cms) <u>New computer model can predict India's pollution levels months earlier</u>
+[Media coverage:](https://economictimes.indiatimes.com/news/science/new-computer-model-can-predict-indias-pollution-levels-months-earlier/articleshow/70446469.cms) <i>New computer model can predict India's pollution levels months earlier</i>
 
 
 
 We demonstrated also the benefits of India’s substantial investments in wind power are vulnerable to the changing climate. On the basis of hourly wind data from an assimilated meteorology reanalysis dataset covering the 1980–2016 period, we show that wind power potential may have declined secularly over this interval, particularly in western India. 
 [Paper Link](https://advances.sciencemag.org/content/4/12/eaat5256) 
 
-[Media coverage:](https://www.thehindu.com/sci-tech/science/climate-change-may-hit-indias-wind-power/article26688356.ece) <u>Climate change may hit India’s wind power</u>
+[Media coverage:](https://www.thehindu.com/sci-tech/science/climate-change-may-hit-indias-wind-power/article26688356.ece) <i>Climate change may hit India’s wind power</i>
 </div>
 </div>
 
@@ -45,7 +45,7 @@ We demonstrated also the benefits of India’s substantial investments in wind p
 We illustrated that observations from current networks of particulate matter observations can be assimilated into contemporary coupled meteorology and chemistry models to produce PM2.5 surface distributions with better quality. These distributions can lead to improved estimates in health impacts and anthropogenic aerosol radiative forcing. 
 [Paper Link](https://pubs.acs.org/doi/10.1021/acs.est.6b03745) 
 
-[Media coverage:](https://economictimes.indiatimes.com/news/science/new-computer-model-can-predict-indias-pollution-levels-months-earlier/articleshow/70446469.cms) <u>New computer model can predict India's pollution levels months earlier</u>
+[Media coverage:](https://economictimes.indiatimes.com/news/science/new-computer-model-can-predict-indias-pollution-levels-months-earlier/articleshow/70446469.cms) <i>New computer model can predict India's pollution levels months earlier</i>
 
 
 
@@ -81,7 +81,7 @@ Topic 3 of the Model Inter-Comparison Study for Asia (MICS-Asia) Phase III exami
 Emissions from power plants in China and India contain a myriad of fine particulate matter (PM<sub>2.5</sub>, PM ≤ 2.5 μm in diameter) precursors, posing significant health risks among large, densely settled populations. We estimated that 15 million (95% Confidence Interval (CI): 10 to 21 million) years of life lost can be avoided in China each year and 11 million (95% CI: 7 to 15 million) in India by eliminating power generation emissions. Priorities in upgrading existing power generating technologies should be given to Shandong, Henan, and Sichuan provinces in China, and Uttar Pradesh state in India due to their dominant contributions to the current health risks. 
 [Paper Link](https://www.sciencedirect.com/science/article/pii/S0160412018313369?via%3Dihub) | [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S004896971500008X?via%3Dihub) 
 
-[Media coverage:](https://www.sciencedaily.com/releases/2018/10/181017172832.htm) <u>Eliminating emissions in India and China could add years to people's lives</u>
+[Media coverage:](https://www.sciencedaily.com/releases/2018/10/181017172832.htm) <i>Eliminating emissions in India and China could add years to people's lives</i>
 
 </div>
 </div>
