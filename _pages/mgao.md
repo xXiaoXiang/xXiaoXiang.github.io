@@ -83,13 +83,13 @@ Environmental Health
 
 #### <b>部分所获荣誉</b>
 
-2020 欧洲地球科学联盟大气科学部杰出早期职业科学家奖
+2020 欧洲地球科学联盟大气科学部杰出青年科学家奖
 
-2018 世界气象组织全球大气监视网（GAW）早期职业奖
+2018 世界气象组织全球大气监视网（GAW）青年科学家奖
 
-2017 美国能源部新兴化学高级大气研究会
+2017 美国大气化学新兴高级科学家研讨会
 
-2016 国际全球大气化学早期职业旅行补助金
+2016 国际全球大气化学青年科学家旅行补助金
 
 2016 爱荷华大学Karl Kammermeyer杰出研究奖
 
@@ -259,7 +259,7 @@ Yang, S., Ma, J., Hu, Z., Jin, L., Xu, X. and Gao, M.: Influence of Aerosols Mix
 
 Aerosol Pollution in Asia and its Interactions with Climate, presented by Gao Meng at EGU General Assembly, May 4, 2020, Online.
 
-氣溶膠生成與天氣、氣候相互作用數值模擬, presented by Gao Meng at 環境科學與工程學院, May 19, 2020, Nanjing, China.
+氣溶膠生成與天氣、氣候相互作用數值模擬, presented by Gao Meng at 南京信息工程大學環境科學與工程學院, May 19, 2020, Nanjing, China.
 
 Seasonal Prediction of Indian Wintertime Aerosol Pollution using the Ocean Memory Effect, presented by Gao Meng at Max Planck Institute for Chemistry Seminar, November 4, 2019, Mainz, Germany.
 
