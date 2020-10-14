@@ -60,42 +60,42 @@ Environmental Health
 
 <div class="col-sm-5 clearfix">
 
-####  <b>研究领域</b>
-大气化学模型
+####  <b>研究領域</b>
+大氣化學模型
 
-空气质量和气候变化
+空氣質量和氣候變化
 
-环境健康
+環境健康
 
-#### <b>职业经历</b>
+#### <b>職業經歷</b>
 
-2019 至今 香港浸会大学 助理教授
+2019 至今 香港浸會大學 助理教授
 
-2016 至 2019 哈佛大学 博士后
+2016 至 2019 哈佛大學 博士後
 
 #### <b>教育背景</b>
 
-2015 博士 化学工程 爱荷华大学
+2015 博士 化學工程 愛荷華大學
 
-2015 硕士 化学工程 爱荷华大学
+2015 碩士 化學工程 愛荷華大學
 
-2012 本科 大气物理 南京信息工程大学
+2012 本科 大氣物理 南京信息工程大學
 
-#### <b>部分所获荣誉</b>
+#### <b>部分所獲榮譽</b>
 
-2020 欧洲地球科学联盟大气科学部杰出青年科学家奖
+2020 歐洲地球科學聯盟大氣科學部傑出青年科學家獎
 
-2018 世界气象组织全球大气监视网（GAW）青年科学家奖
+2018 世界氣象組織全球大氣監視網（GAW）青年科學家獎
 
-2017 美国大气化学新兴高级科学家研讨会
+2017 美國大氣化學新興高級科學家研討會
 
-2016 国际全球大气化学青年科学家旅行补助金
+2016 國際全球大氣化學青年科學家旅行補助金
 
-2016 爱荷华大学Karl Kammermeyer杰出研究奖
+2016 愛荷華大學Karl Kammermeyer傑出研究獎
 
-2015 爱荷华大学研究生院综合研究奖
+2015 愛荷華大學研究生院綜合研究獎
 
-2012 爱荷华大学Karl Kammermeyer奖学金
+2012 愛荷華大學Karl Kammermeyer獎學金
 
 </div>
 </div>
@@ -103,7 +103,7 @@ Environmental Health
 <div class="row">
 <div class="col-sm-12 clearfix">
 
-#### <b>Grants | 受资助项目</b>
+#### <b>Grants | 受資助項目</b>
 
 [1] 排放與氣候因素對近十多年北京冬季PM2.5濃度變化的影響, 環境模擬與污染控制國家重點聯合實驗室（清華大學）開放課題(19K03ESPCT)，2019-2021, 80,000 CNY
 
@@ -126,11 +126,11 @@ Environmental Health
 <div class="row">
 <div class="col-sm-12 clearfix">
 
-#### <b>PUBLICATIONS | 发表论文</b>
+#### <b>PUBLICATIONS | 發表論文</b>
 
 See a full list my publications at [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=VcwIxYgAAAAJ) or [Mendeley](https://www.mendeley.com/authors/56479783600/)
 
-<b>First or corresponding author (*) | 第一或通讯作者
+<b>First or corresponding author (*) | 第一或通訊作者
 
 Gao, M., Sherman, P., Song, S., Yu, Y., Wu, Z. and McElroy, M. B.: Seasonal Prediction of Indian Wintertime Aerosol Pollution using the Ocean Memory Effect. <b>Science Advances</b>, 5(7), eaav4157, 2019. 
 
@@ -255,7 +255,7 @@ Yang, S., Ma, J., Hu, Z., Jin, L., Xu, X. and Gao, M.: Influence of Aerosols Mix
 <div class="row">
 <div class="col-sm-12 clearfix">
 
-#### <b>INVITED SEMINARS | 受邀讲座</b>
+#### <b>INVITED SEMINARS | 受邀講座</b>
 
 Aerosol Pollution in Asia and its Interactions with Climate, presented by Gao Meng at EGU General Assembly, May 4, 2020, Online.
 
