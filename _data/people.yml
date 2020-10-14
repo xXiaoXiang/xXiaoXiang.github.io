@@ -1,7 +1,7 @@
 ﻿- name: <a href="http://geog.hkbu.edu.hk/?page_id=3381">Gao Meng | 高蒙</a>
   photo: Gao_Meng.jpg
   group_member: 1
-  info: Principal Investigator, Assistant Professor (2019.12–)
+  info: Principal Investigator, Assistant Professor
   email: mmgao2@hkbu.edu.hk
   number_educ: 3
   education1: 2012-2015, Ph.D., Chemical Engineering, University of Iowa, USA
@@ -11,14 +11,14 @@
   education5:
   statement:
 
-- name: Jia BeiXi
+- name: Jia BeiXi | 贾贝西
   photo: Jia_BeiXi.jpg
   group_member: 1
-  info: Post-doctoral Research Fellow
+  info: Post-doctoral Research Fellow (2019.12-)
   email: jbx2013@hkbu.edu.hk
-  number_educ: 0
-  education1: 
-  education2: 
+  number_educ: 2
+  education1: 2013-2018，Ph.D., Tsinghua University, China
+  education2: 2009-2013, B.Sc., Nanjing University of Information Science and Technology, China
   education3: 
   education4:
   education5:
@@ -30,8 +30,8 @@
   info: Ph.D. Student (2020.09–)
   email: xiaoxiang@life.hkbu.edu.hk
   number_educ: 2
-  education1: 2017-2019, Master of Medicine, Sun Yat-sen University, China
-  education2: 2012-2017, Bachelor of Medicine, Sun Yat-sen University, China
+  education1: 2017-2019, M.Med., Sun Yat-sen University, China
+  education2: 2012-2017, B.Med., Sun Yat-sen University, China
   education3: 
   education4:
   education5:
@@ -43,8 +43,8 @@
   info: Ph.D. Student (2020.09–)
   email: zhangxiaorui@life.hkbu.edu.hk
   number_educ: 2
-  education1: 2017-2019, Marster of Science, Lanzhou University, China
-  education2: 2013-2017, Bachelor of Science, Lanzhou University, China
+  education1: 2017-2019, M.Sc., Lanzhou University, China
+  education2: 2013-2017, B.Sc. Nanjing University of Information Science and Technology, China
   education3: 
   education4:
   education5:
