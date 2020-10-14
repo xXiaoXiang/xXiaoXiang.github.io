@@ -13,23 +13,27 @@ permalink: /research/
 </div>
 
 <div class="col-sm-7 clearfix">
-<h3>Modeling of atmospheric chemistry</h3>  
+<h3>Atmospheric chemistry modeling for air quality and climate change</h3>  
 
 Atmospheric chemistry modeling is a vibrant field, integrating cutting-edge knowledge from laboratory, theory, and field studies.
 Modeling plays a crucial role in identifying key processes governing the distributions of atmospheric species at various spatial and temporal scales.
-Modeling is also central to assessing impacts of atmospheric chemistry on air quality, public health, and climate.
 
-We are interested in (1) using atmospheric chemistry models to interpret observations from aircraft, ground networks, satellites, and other platforms,
+Atmospheric chemistry modeling is also central to assessing impacts of atmospheric chemistry on air quality, public health, and climate.
+
+We are interested in 
+(1) using atmospheric chemistry models to interpret observations from aircraft, ground networks, satellites, and other platforms,
 (2) applying modeling technique to atmospheric chemistry problems of pressing environmental concern, and
 (3) developing chemical data assimilation tools to manage the massive flow of satellite data.
   
 </div>
 </div>
 
+
+
 <div class="row">
 <div class="col-sm-5 clearfix">
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/satellite2.png){: style="width: 400px; float: left; border: 10px; margin-top: 40px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/air_climate_health.jpg){: style="width: 400px; float: left; border: 10px; margin-top: 40px"}
 </div>
 
 <div class="col-sm-7 clearfix">
