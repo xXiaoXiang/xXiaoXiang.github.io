@@ -39,7 +39,7 @@ As China makes every effort to control air pollution, India emerges as the world
 
 
 
-We demonstrated also the benefits of India’s substantial investments in wind power are vulnerable to the changing climate. On the basis of hourly wind data from an assimilated meteorology reanalysis dataset covering the 1980–2016 period, we show that wind power potential may have declined secularly over this interval, particularly in western India. 
+We demonstrated the benefits of India’s substantial investments in wind power are vulnerable to the changing climate. On the basis of hourly wind data from an assimilated meteorology reanalysis dataset covering the 1980–2016 period, wind power potential may have declined secularly over this interval, particularly in western India. 
 [Paper Link](https://advances.sciencemag.org/content/4/12/eaat5256) 
 
 [Media coverage:](https://www.thehindu.com/sci-tech/science/climate-change-may-hit-indias-wind-power/article26688356.ece) <i>Climate change may hit India’s wind power</i>
