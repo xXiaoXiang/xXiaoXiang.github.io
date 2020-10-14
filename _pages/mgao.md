@@ -257,7 +257,7 @@ Yang, S., Ma, J., Hu, Z., Jin, L., Xu, X. and Gao, M.: Influence of Aerosols Mix
 
 #### <b>INVITED SEMINARS | 受邀讲座</b>
 
-To be continued.Aerosol Pollution in Asia and its Interactions with Climate, presented by Gao Meng at EGU General Assembly, May 4, 2020, Online.
+Aerosol Pollution in Asia and its Interactions with Climate, presented by Gao Meng at EGU General Assembly, May 4, 2020, Online.
 
 氣溶膠生成與天氣、氣候相互作用數值模擬, presented by Gao Meng at 環境科學與工程學院, May 19, 2020, Nanjing, China.
 
