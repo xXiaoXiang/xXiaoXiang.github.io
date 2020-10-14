@@ -9,12 +9,12 @@ permalink: /research/
 <div class="row">
 <div class="col-sm-5 clearfix">
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/model2.png){: style="width: 400px; float: left; border: 10px; margin-top: 40px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/ACM.png){: style="width: 400px; float: left; border: 10px; margin-top: 40px"}
 </div>
 
 <div class="col-sm-7 clearfix">
 <h3>Atmospheric chemistry modeling for air quality and climate change</h3>  
-
+Chemical transport models represent the processes governing the concentration and distribution of atmospheric substances. With suitable inputs, they can be used to describe the properties of atmospheric aerosols and their geographical and temporal distribution at locations and times of interest other than the place and time of measurement.
   
 
 </div>
