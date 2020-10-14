@@ -9,7 +9,7 @@ permalink: /research/
 <div class="row">
 <div class="col-sm-5 clearfix">
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/res1.png){: style="width: 400px; float: left; border: 10px; margin-top: 40px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/res1.png){: style="width: 400px; float: left; border: 10px; margin-top: 20px"}
 </div>
 
 <div class="col-sm-7 clearfix">
@@ -30,7 +30,7 @@ We demonstrated also the benefits of India’s substantial investments in wind p
 <div class="row">
 <div class="col-sm-5 clearfix">
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/res2.png){: style="width: 400px; float: left; border: 10px; margin-top: 40px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/res2.png){: style="width: 400px; float: left; border: 10px; margin-top: 20px"}
 </div>
 
 <div class="col-sm-7 clearfix">
@@ -48,7 +48,7 @@ We illustrated that observations from current networks of particulate matter obs
 <div class="row">
 <div class="col-sm-5 clearfix">
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/res3.png){: style="width: 400px; float: left; border: 10px; margin-top: 40px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/res3.png){: style="width: 400px; float: left; border: 10px; margin-top: 20px"}
 </div>
 
 <div class="col-sm-7 clearfix">
@@ -64,7 +64,7 @@ Topic 3 of the Model Inter-Comparison Study for Asia (MICS-Asia) Phase III exami
 <div class="row">
 <div class="col-sm-5 clearfix">
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/res4.png){: style="width: 400px; float: left; border: 10px; margin-top: 40px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/res4.png){: style="width: 400px; float: left; border: 10px; margin-top: 20px"}
 </div>
 
 <div class="col-sm-7 clearfix">
