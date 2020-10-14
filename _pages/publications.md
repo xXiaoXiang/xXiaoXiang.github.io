@@ -48,7 +48,7 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-### Full List
+### Selected List
 (First and corresponding author papers in **bold**)
 
 <p></p>
