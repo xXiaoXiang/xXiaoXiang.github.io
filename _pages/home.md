@@ -46,7 +46,7 @@ We work with researchers all over the world through collaborative model developm
 
 We are part of the [Department of Geography](http://geog.hkbu.edu.hk/) at [Hong Kong Baptist University](https://www.hkbu.edu.hk).
 
-**We are now seeking Postdocs, passionate Research Postgradate students to join our group.**
+**We are now seeking passionate Research Postgradate students to join our group.**
 Please check out our [Openings]({{ site.url }}{{ site.baseurl }}/openings).
 
 <p style="text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" style="width: 240px">
