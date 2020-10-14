@@ -7,14 +7,14 @@ permalink: /presentations/
 ---
 
 <div class="row">
-<div class="col-sm-6 clearfix">
+<div class="col-sm-12 clearfix">
 
-### Talks
+### Invited Talks
 
 {% for talk in site.data.talklist %}
 
   {% if talk.invited_talk == 1 %}
-  {{ talk.title }}, presented by {{ talk.presenter }} at <i>{{ talk.meeting }}</i>, <u>{{ talk.date }}</u>, {{ talk.location }}. <b>(Invited)</b>
+  {{ talk.title }}, presented by {{ talk.presenter }} at <i>{{ talk.meeting }}</i>, <u>{{ talk.date }}</u>, {{ talk.location }}.
   {% endif %} 
 
   {% if talk.invited_talk == 0 %}
@@ -24,6 +24,7 @@ permalink: /presentations/
 {% endfor %}
 </div>
 
+<!--
 <div class="col-sm-6 clearfix">
 
 ### Posters
@@ -34,4 +35,5 @@ permalink: /presentations/
   
 {% endfor %}
 </div>
+-->
 </div>
