@@ -43,9 +43,9 @@ Our goal is to better understand processes governing the distributions of atmosp
 To this end, our [research]({{ site.url }}{{ site.baseurl }}/research) combines modeling, remote sensing, and data assimilation techniques.
 We work with researchers all over the world through collaborative model development, satellite missions, field campaigns, and global measurement networks.
 
-We are part of the [Department of Geography](http://http://geog.hkbu.edu.hk/) at [Hong Kong Baptist University](https://www.hkbu.edu.hk).
+We are part of the [Department of Geography](http://geog.hkbu.edu.hk/) at [Hong Kong Baptist University](https://www.hkbu.edu.hk).
 
 **We are now seeking Postdocs, passionate Research Postgradate students to join our group.**
 Please check out our [Openings]({{ site.url }}{{ site.baseurl }}/openings).
 
-<p style="text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logo.jpg" style="width: 240px">
+<p style="text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" style="width: 240px">
