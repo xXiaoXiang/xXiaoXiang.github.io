@@ -15,6 +15,7 @@ permalink: /openings/
 We are recruiting PhD students for academic year 2021 starting in September 2021. 
 
 Applicants who majored in Atmospheric Science, Environmental Science, Computer Science from both home and abroad are welcomed! Applicants should pass the English test (i.e., TOEFL-iBT ≥ 79, or IELTS overall band ≥ 6.5).
+
 If you are interested in working with us, please send us an [email]({{ site.url }}{{ site.baseurl }}/contact/).  
 
 In the email, please  
