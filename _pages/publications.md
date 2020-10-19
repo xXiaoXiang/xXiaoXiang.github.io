@@ -1,5 +1,5 @@
 ---
-title: "Publications | 论文"
+title: "Publications | 論文"
 layout: gridlay
 excerpt: "Publications"
 sitemap: false
@@ -8,7 +8,7 @@ permalink: /publications/
 
 ### Highlights
 
-(See [below](#full-list) for a full list)
+(See [below](#Selected-List) for a selected list)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -48,7 +48,7 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-### Full List
+### Selected List
 (First and corresponding author papers in **bold**)
 
 <p></p>

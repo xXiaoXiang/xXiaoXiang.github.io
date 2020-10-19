@@ -1,5 +1,5 @@
 ---
-title: "News | 新闻"
+title: "News | 新聞"
 layout: textlay
 excerpt: "News"
 sitemap: false

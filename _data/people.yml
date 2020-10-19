@@ -1,7 +1,7 @@
-﻿- name: <a href="http://geog.hkbu.edu.hk/?page_id=3381">Gao Meng | 高蒙</a>
+﻿- name: <a href="https://atchemo.hkbu.cf/mgao">Gao Meng | 高蒙</a>
   photo: Gao_Meng.jpg
   group_member: 1
-  info: Principal Investigator, Assistant Professor (2019.12–)
+  info: Principal Investigator, Assistant Professor
   email: mmgao2@hkbu.edu.hk
   number_educ: 3
   education1: 2012-2015, Ph.D., Chemical Engineering, University of Iowa, USA
@@ -11,27 +11,40 @@
   education5:
   statement:
 
+- name: Jia BeiXi | 賈貝西
+  photo: Jia_BeiXi.jpg
+  group_member: 1
+  info: Post-doctoral Research Fellow (2019.12-)
+  email: jbx2013@hkbu.edu.hk
+  number_educ: 2
+  education1: 2013-2018，Ph.D., Tsinghua University, China
+  education2: 2009-2013, B.Sc., Nanjing University of Information Science and Technology, China
+  education3: 
+  education4:
+  education5:
+  statement:
+  
 - name: Xiao Xiang | 肖翔
   photo: Xiao_Xiang.jpg
   group_member: 3
   info: Ph.D. Student (2020.09–)
   email: xiaoxiang@life.hkbu.edu.hk
   number_educ: 2
-  education1: 2017-2019, Mphil., Sun Yat-sen University, China
-  education2: 2012-2017, Bachelor of Medicine., Sun Yat-sen University, China
+  education1: 2017-2019, M.Med., Sun Yat-sen University, China
+  education2: 2012-2017, B.Med., Sun Yat-sen University, China
   education3: 
   education4:
   education5:
   statement:
   
-- name: Zhang XiaoRui | 张笑瑞
+- name: Zhang XiaoRui | 張笑瑞
   photo: Zhang_XiaoRui.png
   group_member: 2
   info: Ph.D. Student (2020.09–)
   email: zhangxiaorui@life.hkbu.edu.hk
   number_educ: 2
-  education1: 2017-2019, MS., Lanzhou University, China
-  education2: 2012-2017, BS., Lanzhou University, China
+  education1: 2017-2019, M.Sc., Lanzhou University, China
+  education2: 2013-2017, B.Sc. Nanjing University of Information Science and Technology, China
   education3: 
   education4:
   education5:
@@ -40,7 +53,7 @@
 - name: "This could be you !"
   photo: wny.jpg
   group_member: 0  
-  info: See <a href="https://www.acmrsg.org/openings">Openings</a> for more information
+  info: See <a href="https://atchemo.hkbu.cf/openings">Openings</a> for more information
   email: mmgao2@hkbu.edu.hk
   number_educ: 0
   education1:

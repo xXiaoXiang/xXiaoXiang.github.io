@@ -1,74 +1,43 @@
 ---
-title: "Join us | 加入我们"
+title: "Join us | 加入我們"
 layout: textlay
 excerpt: "Join us"
 sitemap: false
 permalink: /openings/
 ---
 
-<div class="row">
-<div class="col-sm-6 clearfix">
-
-#### <b>Postdocs</b>
-
-We seek postdocs with expertise in Atmospheric Chemistry Modeling and/or Remote Sensing.
-For more details, please check [the post]({{ site.url }}{{ site.baseurl }}/downloads/Postdoc.pdf).
-
-</div>
-
-<div class="col-sm-6 clearfix">
-
-#### <b>博士后</b>
-
-研究组目前招聘有大气化学模式或遥感背景的博士后。  
-更多细节，请参见[招聘广告]({{ site.url }}{{ site.baseurl }}/downloads/Postdoc.pdf)。  
-
-</div>
-</div>
 
 <div class="row">
 <div class="col-sm-6 clearfix">
 
-#### <b>PhD and Master students</b>
+#### <b>PhD students</b>
 
-We recruit 1-3 PhD students and 1-2 Master students each year. 
+We are recruiting PhD students for academic year 2021 starting in September 2021. 
+
+Applicants who majored in Atmospheric Science, Environmental Science, Computer Science，etc. are welcomed! Applicants should pass the English test (i.e., TOEFL-iBT ≥ 79, or IELTS overall band ≥ 6.5).
+
 If you are interested in working with us, please send us an [email]({{ site.url }}{{ site.baseurl }}/contact/).  
+
 In the email, please  
-(1) state briefly why you are interested in us,  
-(2) attach a CV,  
-(3) attach your Master (if any) and Undergraduate transcripts,  
-(4) provide contact information of 1-2 references.
+(1) attach a CV,  
+(2) attach your Master (if any) and Undergraduate transcripts (with ranking)
 
 </div>
 
 <div class="col-sm-6 clearfix">
 
-#### <b>博士与硕士研究生</b>
+#### <b>博士研究生</b>
 
-研究组每年招收1至3名博士研究生和1至2名硕士研究生。如果您有志加入我们，请[邮件联系]({{ site.url }}{{ site.baseurl }}/contact/)。  
-在邮件里，请您  
-（1）简要说明您为何对我们感兴趣；  
-（2）附上个人简历；  
-（3）附上硕士（如果有）及本科阶段成绩单;  
-（4）提供1至2名推荐人的联系方式。
+香港浸會大學大氣環境方向研究組招收2021年秋季入學（2021.9）博士研究生。
 
-</div>
-</div>
+歡迎國內外大氣科學、環境科學、計算機科學等專業方向的畢業生或待畢業生申請。有意者請[郵件聯繫]({{ site.url }}{{ site.baseurl }}/contact/)。
 
-<div class="row">
-<div class="col-sm-6 clearfix">
+要求：專業方向為空氣質量與天氣、氣候相互作用數值模擬，空氣污染數據統計分析與預測等，有大氣環境數值模擬科研經歷、科研成果突出或學習成績的學生優先考慮。申請者需要通過英語專業考試：TOEFL-iBT 79以上或者雅思6.5以上
 
-#### <b>Undergraduate students</b>
 
-We welcome undergraduates at SUSTech to participate in our research.
-If you are interested, please [contact us]({{ site.url }}{{ site.baseurl }}/contact/).
-
-</div>
-
-<div class="col-sm-6 clearfix">
-#### <b>本科生</b>
-欢迎南科大本科生参与我们的研究。  
-若有兴趣请[联系我们]({{ site.url }}{{ site.baseurl }}/contact/)。
+在郵件裡，請您
+（1）附上個人簡歷；
+（2）附上碩士（如果有）及本科階段成績單（含專業排名）;
 
 </div>
 </div>

@@ -1,5 +1,5 @@
 ﻿---
-title: "Contact Us | 联系我们"
+title: "Contact Us | 聯係我們"
 layout: gridlay
 excerpt: "Contact Us"
 sitemap: false
@@ -22,27 +22,27 @@ mmgao2@hkbu.edu.hk
 +852-34115990
 
 **Address:**
-AAB 1222, Teaching and Administration Building,
-HongKong Baptist University, HongKong SAR, China
+AAB 1222, Academic and Administration Building,
+HongKong Baptist University, Kowloon, HongKong SAR, China
 
 
 </div>
 
 <div class="col-sm-6 clearfix">
 
-### 联系我们
+### 聯係我們
 
-**邮箱：**
+**郵箱：**
 mmgao2@hkbu.edu.hk
 
-**电话：** 
+**電話：** 
 +852-34117190
 
-**传真：**
+**傳真：**
 +852-34115990
 
 **地址：** 
-香港特别行政区 香港浸会大学 教学与行政大楼 AAB1222
+香港特別行政區 香港浸會大學 教學與行政大樓 AAB1222
 
 
 </div>
