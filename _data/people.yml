@@ -88,10 +88,21 @@
   education4:
   education5:
   statement:
-
+  
+- name: "This could be you !"
+  photo: wny.jpg
+  group_member: 8  
+  info: See <a href="https://atchemo.hkbu.cf/openings">Openings</a> for more information
+  email: mmgao2@hkbu.edu.hk
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  statement:
 - name: Jia BeiXi | 賈貝西
   photo: Jia_BeiXi.jpg
-  group_member: 8
+  group_member: 9
   info: Alumni Fellow
   email: 
   number_educ: 2
@@ -104,7 +115,7 @@
   
 - name: Liu Shanshan | 刘闪闪
   photo: Liu_Shanshan.jpg
-  group_member: 9
+  group_member: 10
   info: Alumni Fellow
   email: 
   number_educ: 2
@@ -115,14 +126,4 @@
   education5:
   statement:
  
-- name: "This could be you !"
-  photo: wny.jpg
-  group_member: 0  
-  info: See <a href="https://atchemo.hkbu.cf/openings">Openings</a> for more information
-  email: mmgao2@hkbu.edu.hk
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
-  statement:
+
