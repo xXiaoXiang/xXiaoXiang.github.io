@@ -8,7 +8,7 @@ permalink: /publications/
 
 ### Highlights
 
-(See [below](#Selected-List) for a selected list)
+(See [below](#Full-List) for a full list)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -48,7 +48,7 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-### Selected List
+### Full List
 (First and corresponding author papers in **bold**)
 
 <p></p>
