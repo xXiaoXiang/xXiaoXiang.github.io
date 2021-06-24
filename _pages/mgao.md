@@ -152,7 +152,7 @@ Environmental Health
 
 #### <b>Peer-reviewed Journal Publications | 期刊论文</b>
 
-*<b>New Submitted (7):</b>*
+*<b>Submitted (7):</b>*
 
 •	Zhu, J.<sup>🖂</sup>, Penner, J.<sup>🖂</sup>, Garnier, A., Boucher, O., Gao, M., Song, L., Deng, J., Liu, C., and Fu, P.: Climate effect on cirrus clouds due to decreased aviation during the COVID-19 pandemic, submitted to Science Advances. 
 
