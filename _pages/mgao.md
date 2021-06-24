@@ -25,9 +25,9 @@ Environmental Health
 
 #### <b>PROFESSIONAL EXPERIENCE</b>
 
-2019 to -       Assistant Professor, Hong Kong Baptist University
+2019 to Now     Assistant Professor, Department of Geography, Hong Kong Baptist University
 
-2016 to 2019    Postdoctoral Fellow, Harvard University
+2016 to 2019    Postdoctoral Fellow, Environmental Science and Engineering, Harvard University
 
 
 #### <b>EDUCATION</b>
@@ -36,7 +36,7 @@ Environmental Health
 
 2015    M.Eng. in Chemical Engineering, University of Iowa, USA
 
-2012	B.S. in Atmospheric Physics, Nanjing University of Information Science & Technology, China
+2012	  B.S. in Atmospheric Physics, Nanjing University of Information Science & Technology, China
 
 
 #### <b>SLECTED HONORS</b>
