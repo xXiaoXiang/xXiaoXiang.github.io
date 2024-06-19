@@ -1232,7 +1232,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #41ff65;
+    background: #148c50;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -2690,22 +2690,36 @@ header.header {
   }
 }
 body {
-  background: url("/images/background.webp");
+  background: url("/images/background.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
   background-position: 50% 50%;
 }
 .content-wrap {
-  opacity: 0.8;
+  opacity: 0.9;
 }
 .sidebar {
-  background: url("/images/sidebar-bg.jpg");
-  opacity: 0.8;
+  opacity: 0.9;
 }
 .header-inner {
-  background: rgba(255,255,255,0.8);
+  background: rgba(255,255,255,0.9);
 }
 .popup {
-  opacity: 0.8;
+  opacity: 0.9;
+}
+.header.header {
+  opacity: 0.9;
+}
+.site-brand-container {
+  border-radius: 20px;
+  background: transparent;
+  padding: 0 0px;
+}
+.site-meta {
+  background: url("/images/sidebar-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0% 0%;
+  border-radius: 20px;
 }
